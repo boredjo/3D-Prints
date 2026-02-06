@@ -1,3 +1,3 @@
 # 3d-prints
 
-All little 3d print I designed
+All little 3d prints I designed.
